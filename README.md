@@ -1,4 +1,4 @@
-# Ekran Koordinatalarini Olish Scripti
+# Ekran Koordinatalarini Olish
 
 Ushbu script, kompyuterda ekranning aniq koordinatalarini olish uchun mo'ljallangan. Bu yordamida dasturlarni avtomatlashtirish va aniqlikda ishga tushirish mumkin.
 
