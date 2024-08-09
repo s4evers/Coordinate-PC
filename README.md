@@ -4,7 +4,7 @@ Ushbu script, kompyuterda ekranning aniq koordinatalarini olish uchun mo'ljallan
 
 ## O'rnatish
 
-Dasturdan foydalanish uchun quyidagi buyruqlarni bajarish kifoya:
+Linux yoki Windows Powershell:
 
 ```bash
 $ git clone https://github.com/s4evers/Coordinate-PC.git
