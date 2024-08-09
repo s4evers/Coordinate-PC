@@ -7,8 +7,10 @@ Ushbu script, kompyuterda ekranning aniq koordinatalarini olish uchun mo'ljallan
 Dasturdan foydalanish uchun quyidagi buyruqlarni bajarish kifoya:
 
 ```bash
-$ pip install pyautogui
+$ git clone https://github.com/s4evers/Coordinate-PC.git
+$ cd Coordinate-PC
+$ pip install -r requirements.txt
 $ python coordinate.py
 ```
 
-[Telegram](https://Networking_Security)
+[Telegram](https://Networking_Security)   [Instagram](https://instagram.com/cs.mer6)
