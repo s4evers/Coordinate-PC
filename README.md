@@ -13,5 +13,4 @@ $ pip install -r requirements.txt
 $ python coordinate.py
 ```
 
-[Telegram](https://t.me/Networking_Security)   
- [Instagram](https://instagram.com/cs.mer6)
+[Telegram✅️](https://t.me/Networking_Security) \n [Instagram✅️](https://instagram.com/cs.mer6)
